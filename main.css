@@ -58,11 +58,12 @@ body{
     cursor: pointer;
 }
 
-.title{
+h1{
+    font-size: 18px;
     font-weight: 600;
 }
 
-.title:hover{
+h1:hover{
     color: #00FFF8;
     cursor: pointer;
 }
